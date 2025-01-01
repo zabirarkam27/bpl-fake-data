@@ -7,7 +7,7 @@
     "battingStyle": "Left-Hand-Bat",
     "price": "$200000",
     "rating": 9.5,
-    "image": "https://raw.githubusercontent.com/zabirarkam27/bpl-fake-data/main/images/sakib-al-hasan.jpg"
+    "image": "https://raw.githubusercontent.com/zabirarkam27/bpl-fake-data/main/images/sakib_al_hasan.jpg"
   },
   {
     "id": 2,
@@ -17,7 +17,7 @@
     "battingStyle": "Left-Hand-Bat",
     "price": "$180000",
     "rating": 8.9,
-    "image": "https://raw.githubusercontent.com/zabirarkam27/bpl-fake-data/main/images/tamim-iqbal.jpg"
+    "image": "https://raw.githubusercontent.com/zabirarkam27/bpl-fake-data/main/images/tamim_iqbal.jpg"
   },
   {
     "id": 3,
@@ -27,7 +27,7 @@
     "battingStyle": "Right-Hand-Bat",
     "price": "$500000",
     "rating": 9.8,
-    "image": "https://raw.githubusercontent.com/zabirarkam27/bpl-fake-data/main/images/virat-kohli.jpg"
+    "image": "https://raw.githubusercontent.com/zabirarkam27/bpl-fake-data/main/images/virat_kohli.jpg"
   },
   {
     "id": 4,
@@ -37,7 +37,7 @@
     "battingStyle": "Right-Hand-Bat",
     "price": "$450000",
     "rating": 9.6,
-    "image": "https://raw.githubusercontent.com/zabirarkam27/bpl-fake-data/main/images/rohit-sharma.jpg"
+    "image": "https://raw.githubusercontent.com/zabirarkam27/bpl-fake-data/main/images/rohit_sharma.jpg"
   },
   {
     "id": 5,
