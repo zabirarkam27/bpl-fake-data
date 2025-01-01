@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "Shakib Al Hasan",
+    "team": "Bangladesh",
+    "role": "All-Rounder",
+    "battingStyle": "Left-Hand-Bat",
+    "price": "$200000",
+    "rating": 9.5,
+    "image": "https://en.wikipedia.org/wiki/File:Shakib_Al_Hasan.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Tamim Iqbal",
+    "team": "Bangladesh",
+    "role": "Batsman",
+    "battingStyle": "Left-Hand-Bat",
+    "price": "$180000",
+    "rating": 8.9,
+    "image": "https://en.wikipedia.org/wiki/File:Tamim_Iqbal.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Virat Kohli",
+    "team": "India",
+    "role": "Batsman",
+    "battingStyle": "Right-Hand-Bat",
+    "price": "$500000",
+    "rating": 9.8,
+    "image": "https://en.wikipedia.org/wiki/File:Virat_Kohli.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Rohit Sharma",
+    "team": "India",
+    "role": "Batsman",
+    "battingStyle": "Right-Hand-Bat",
+    "price": "$450000",
+    "rating": 9.6,
+    "image": "https://en.wikipedia.org/wiki/File:Rohit_Sharma.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Babar Azam",
+    "team": "Pakistan",
+    "role": "Batsman",
+    "battingStyle": "Right-Hand-Bat",
+    "price": "$400000",
+    "rating": 9.7,
+    "image": "https://en.wikipedia.org/wiki/File:Babar_Azam.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Shaheen Afridi",
+    "team": "Pakistan",
+    "role": "Bowler",
+    "battingStyle": "Left-Hand-Bat",
+    "price": "$350000",
+    "rating": 9.3,
+    "image": "https://en.wikipedia.org/wiki/File:Shaheen_Afridi.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Jos Buttler",
+    "team": "England",
+    "role": "Wicketkeeper",
+    "battingStyle": "Right-Hand-Bat",
+    "price": "$400000",
+    "rating": 9.4,
+    "image": "https://en.wikipedia.org/wiki/File:Jos_Buttler.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Ben Stokes",
+    "team": "England",
+    "role": "All-Rounder",
+    "battingStyle": "Left-Hand-Bat",
+    "price": "$450000",
+    "rating": 9.5,
+    "image": "https://en.wikipedia.org/wiki/File:Ben_Stokes.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Kane Williamson",
+    "team": "New Zealand",
+    "role": "Batsman",
+    "battingStyle": "Right-Hand-Bat",
+    "price": "$380000",
+    "rating": 9.2,
+    "image": "https://en.wikipedia.org/wiki/File:Kane_Williamson.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Trent Boult",
+    "team": "New Zealand",
+    "role": "Bowler",
+    "battingStyle": "Left-Hand-Bat",
+    "price": "$300000",
+    "rating": 9.1,
+    "image": "https://en.wikipedia.org/wiki/File:Trent_Boult.jpg"
+  },
+  {
+    "id": 11,
+    "name": "David Warner",
+    "team": "Australia",
+    "role": "Batsman",
+    "battingStyle": "Left-Hand-Bat",
+    "price": "$400000",
+    "rating": 9.4,
+    "image": "https://en.wikipedia.org/wiki/File:David_Warner.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Pat Cummins",
+    "team": "Australia",
+    "role": "Bowler",
+    "battingStyle": "Right-Hand-Bat",
+    "price": "$420000",
+    "rating": 9.5,
+    "image": "https://en.wikipedia.org/wiki/File:Pat_Cummins.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Kagiso Rabada",
+    "team": "South Africa",
+    "role": "Bowler",
+    "battingStyle": "Right-Hand-Bat",
+    "price": "$380000",
+    "rating": 9.3,
+    "image": "https://en.wikipedia.org/wiki/File:Kagiso_Rabada.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Quinton de Kock",
+    "team": "South Africa",
+    "role": "Wicketkeeper",
+    "battingStyle": "Left-Hand-Bat",
+    "price": "$390000",
+    "rating": 9.4,
+    "image": "https://en.wikipedia.org/wiki/File:Quinton_de_Kock.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Shoriful Islam",
+    "team": "Bangladesh",
+    "role": "Bowler",
+    "battingStyle": "Left-Hand-Bat",
+    "price": "$125000",
+    "rating": 8.2,
+    "image": "https://en.wikipedia.org/wiki/File:Shoriful_Islam.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Mitchell Starc",
+    "team": "Australia",
+    "role": "Bowler",
+    "battingStyle": "Left-Hand-Bat",
+    "price": "$450000",
+    "rating": 9.6,
+    "image": "https://en.wikipedia.org/wiki/File:Mitchell_Starc.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Mushfiqur Rahim",
+    "team": "Bangladesh",
+    "role": "Wicketkeeper",
+    "battingStyle": "Right-Hand-Bat",
+    "price": "$150000",
+    "rating": 8.8,
+    "image": "https://en.wikipedia.org/wiki/File:Mushfiqur_Rahim.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Mohammad Rizwan",
+    "team": "Pakistan",
+    "role": "Wicketkeeper",
+    "battingStyle": "Right-Hand-Bat",
+    "price": "$250000",
+    "rating": 9.2,
+    "image": "https://en.wikipedia.org/wiki/File:Mohammad_Rizwan.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Glenn Maxwell",
+    "team": "Australia",
+    "role": "All-Rounder",
+    "battingStyle": "Right-Hand-Bat",
+    "price": "$400000",
+    "rating": 9.3,
+    "image": "https://en.wikipedia.org/wiki/File:Glenn_Maxwell.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Rashid Khan",
+    "team": "Afghanistan",
+    "role": "Bowler",
+    "battingStyle": "Right-Hand-Bat",
+    "price": "$350000",
+    "rating": 9.5,
+    "image": "https://en.wikipedia.org/wiki/File:Rashid_Khan.jpg"
+  }
+]
